@@ -44,16 +44,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexGritli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=fr&rank_icon=github" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=AlexGritli&theme=tokyonight&hide_border=true&locale=fr" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=AlexGritli&theme=tokyonight&hide_border=true&locale=fr" alt="streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGritli&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlexGritli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
