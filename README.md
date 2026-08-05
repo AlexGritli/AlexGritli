@@ -1,30 +1,49 @@
 <div align="center">
 
-<!-- ══════════════ Bannière animée ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Skander%20Gritli&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=22&descAlignY=78" width="100%" alt="banner" />
+<!-- ══════════════ Animated banner · Bannière animée ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Skander%20Gritli&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=22&descAlignY=78" width="100%" alt="banner" />
 
-<!-- ══════════════ Texte qui s'écrit tout seul ══════════════ -->
+<!-- ══════════════ Self-typing text · Texte qui s'écrit ══════════════ -->
 <a href="https://gritli.fr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Web+Developer;Sites+web+modernes+%26+anim%C3%A9s;Cr%C3%A9ation+vid%C3%A9o+par+IA;Bas%C3%A9+en+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;D%C3%A9veloppeur+Full+Stack;Modern+websites+%26+web+apps;Sites+%26+applications+modernes" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AlexGritli&color=764ba2&style=flat-square&label=Visites%20du%20profil" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=AlexGritli&color=764ba2&style=flat-square" alt="profile views" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About me · À propos
 
-- 🚀 **Full Stack Web Developer** — je conçois des sites et applications web modernes, animés et rapides
-- 🎬 Je crée des **vidéos générées par IA** (Seedance, Higgsfield) pour des sites qui ne ressemblent à aucun autre
-- 🔒 Mes gros projets sont en **privé** — le graphique vert ci-dessous parle pour eux 👇
-- 🌐 Mon site : [gritli.fr](https://gritli.fr)
-- 📫 Contact : **frenchskander@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+- 🚀 **Full Stack Developer** — I build modern, fast and animated websites & web apps
+- 🔒 Most of my work lives in **private repos** — the green graph below speaks for it 👇
+- 🌐 Website: [gritli.fr](https://gritli.fr)
+- 📫 Contact: **bonjour@gritli.fr**
+
+</td>
+<td width="50%" valign="top">
+
+### 🇫🇷 Français
+
+- 🚀 **Développeur Full Stack** — je conçois des sites et applications web modernes, rapides et animés
+- 🔒 La plupart de mes projets sont **privés** — le graphique vert ci-dessous parle pour eux 👇
+- 🌐 Site : [gritli.fr](https://gritli.fr)
+- 📫 Contact : **bonjour@gritli.fr**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack · Stack technique
 
 <div align="center">
 
@@ -32,19 +51,17 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Seedance_%2F_Higgsfield-vid%C3%A9o_IA-8A2BE2?style=for-the-badge" alt="Vidéo IA" />
 
 </div>
 
 <br/>
 
-## 📊 Mes stats GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AlexGritli&theme=tokyonight&hide_border=true&locale=fr" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=AlexGritli&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/><br/>
 
@@ -54,7 +71,7 @@
 
 <br/>
 
-## 🐍 Le serpent qui mange mes contributions
+## 🐍 Contribution snake · Le serpent des contributions
 
 <div align="center">
 
@@ -70,16 +87,16 @@
 
 <div align="center">
 
-## 🤝 Me contacter
+## 🤝 Get in touch · Me contacter
 
 <a href="https://gritli.fr">
   <img src="https://img.shields.io/badge/Portfolio-gritli.fr-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:frenchskander@gmail.com">
-  <img src="https://img.shields.io/badge/Email-frenchskander%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:bonjour@gritli.fr">
+  <img src="https://img.shields.io/badge/Email-bonjour%40gritli.fr-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
-<!-- ══════════════ Vague de fin ══════════════ -->
+<!-- ══════════════ Footer wave · Vague de fin ══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" alt="footer" />
